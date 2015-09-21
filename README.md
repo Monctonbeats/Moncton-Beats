@@ -1,4 +1,5 @@
 Moncton Beats: Collaborative, Transparent, Community Driven
+
 Moncton Beats, first of all, starts with individuals. We do not start with abstract concepts, but with the people who created them. Understanding the people who make a system is critical to feeling you can become part of it. It's the opposite of trying to navigate government departments that have become so vast and convoluted even the people who run them don't really understand them.
 
 Second, we are out to solve problems, or rather help gather information that can help people solve problems. As journalists we adhere to certain methods and standards, but we believe we can effect change not as a biproduct of what we do, but as a central principle.
