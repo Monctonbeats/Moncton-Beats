@@ -10,6 +10,7 @@ Transparency is also practical. While making you feel exposed initially, transpa
 
 This is why we're using GitHub, a version control system that many software developers have been using for years to work on opensource projects. GitHub, based on the more geeky Git system, lets others see exacty what you are doing and how you got there by making it possible to view every change, addition and delete you've made. Imagine if government laws and budgets used publicly available GitHub repositories. 
 
-Creating complex products employing large, far flung groups is a tricky business, but GitHub (there are other user interfaces for Git) has been successful in helping people get their ideas into the system in the most efficent way. While Git/GitHub and have been used mostly by software developers, we believe it, or something like it, could be the next massively mainstream SMS or text messaging tool but for information processing of all kinds. SMS or texting also started out as a tool for techies.
+Creating complex products employing large, far flung groups is a tricky business, but GitHub (there are other user interfaces for Git) has been successful in helping people get their ideas into the system in the most efficent way. While Git and GitHub have been used mostly by software developers, we believe it, or something like it, could be the next massively mainstream SMS or text messaging tool but for information processing of all kinds. SMS or texting also started out as a tool just for techies.
 
- 
+By concentrating on the humans in the system and by using the Internet's most collaborative tools, we hope to reintroduce people to their community and the people in it as a complement to the massive globaisation we have seen since the Internet took hold.
+
