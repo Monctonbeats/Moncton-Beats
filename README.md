@@ -18,7 +18,7 @@ Transparency is also practical. While making you feel exposed initially, transpa
 
 Why GitHub?
 
-This is why we're using GitHub, a version control system that many software developers have been using for years to work on opensource projects. GitHub, based on the more geeky Git system, lets others see exacty what you are doing and how you got there by making it possible to view every change, addition and delete you've made. Imagine if government laws and budgets used publicly available GitHub repositories. 
+This is why we're using GitHub, a version control system that many software developers have been using for years to work on opensource projects. GitHub, based on the more geeky Git system, lets others see exacty what you are doing and how you got there by making it possible to view every change, addition and deletion you've made. Imagine if government laws and budgets used publicly available GitHub repositories. 
 
 Doing Stuff in the Networking Age
 
